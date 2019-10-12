@@ -18,7 +18,7 @@ import full02 from '../assets/images/fulls/02.jpg'
 import full03 from '../assets/images/fulls/03.jpg'
 import full04 from '../assets/images/fulls/04.jpg'
 import full05 from '../assets/images/fulls/05.jpg'
-import full06 from '../assets/images/fulls/06.jpg'
+import full06 from '../assets/images/fulls/HandRehab2.jpg'
 
 
 const DEFAULT_IMAGES = [
