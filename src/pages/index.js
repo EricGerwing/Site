@@ -27,7 +27,7 @@ const DEFAULT_IMAGES = [
     { id: '3', source: full03, thumbnail: thumb03, caption: 'Photo 3', description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.'},
     { id: '4', source: full04, thumbnail: thumb04, caption: 'Photo 4', description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.'},
     { id: '5', source: full05, thumbnail: thumb05, caption: 'Photo 5', description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.'},
-    { id: '6', source: full06, thumbnail: thumb06, caption: 'Photo 6', description: 'Soft Robotics for rehabilitation.'}
+    { id: '6', source: full06, thumbnail: thumb06, caption: 'Hand Rehab Device', description: 'Soft Robotics for rehabilitation.'}
 ];
 
 class HomeIndex extends React.Component {
