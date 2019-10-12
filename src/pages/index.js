@@ -45,8 +45,8 @@ class HomeIndex extends React.Component {
 
                     <section id="one">
                         <header className="major">
-                            <h2>This portflio page is under construction.</h2>
-                            <h2>Last Updated October 2019.</h2>
+                            <h2>This Portflio Page Is Under Construction.</h2>
+                            <h1>Last Updated October 2019.</h1>
                         </header>
                         <p>Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia.</p>
                         <ul className="actions">
@@ -89,17 +89,17 @@ class HomeIndex extends React.Component {
                                 <ul className="labeled-icons">
                                     <li>
                                         <h3 className="icon fa-home"><span className="label">Address</span></h3>
-                                        1234 Somewhere Rd.<br />
-                                        Nashville, TN 00000<br />
-                                        United States
+                                        2707 7th Street East.<br />
+                                        Saskatoon, SK S7N 1A7<br />
+                                        Canada
                                     </li>
                                     <li>
                                         <h3 className="icon fa-mobile"><span className="label">Phone</span></h3>
-                                        000-000-0000
+                                       306-371-3729
                                     </li>
                                     <li>
                                         <h3 className="icon fa-envelope-o"><span className="label">Email</span></h3>
-                                        <a href="#">hello@untitled.tld</a>
+                                        <a href="#">ericgerwing@gmail.com</a>
                                     </li>
                                 </ul>
                             </div>
