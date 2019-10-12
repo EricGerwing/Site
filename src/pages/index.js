@@ -20,6 +20,7 @@ import full05 from '../assets/images/fulls/05.jpg'
 import full06 from '../assets/images/fulls/06.jpg
 
 
+
 const DEFAULT_IMAGES = [
     { id: '1', source: full01, thumbnail: thumb01, caption: 'Photo 1', description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.'},
     { id: '2', source: full02, thumbnail: thumb02, caption: 'Photo 2', description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.'},
